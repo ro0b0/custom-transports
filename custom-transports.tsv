@@ -1282,7 +1282,8 @@
 1326 10097 0	1324 10097 0	Pass Mystical barrier (orange) 34433						1	
 1326 10097 0	1324 10097 0	Pass Mystical barrier (red) 34434						1	
 # Grand exchange agility shortcut									
-3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3  
-3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3  
-2925 2947 0	2925 2951 0	Cross Stepping stones 23647	30 Agility					17  
-2925 2951 0	2925 2947 0	Cross Stepping stones 23645	30 Agility					17  
+3142 3513 0	3137 3516 0	Climb-into Underwall tunnel 16530	21 Agility					3	
+3137 3516 0	3142 3513 0	Climb-into Underwall tunnel 16529	21 Agility					3	
+# Karamja stepping stones
+2925 2947 0	2925 2951 0	Cross Stepping stones 23647	30 Agility					17	
+2925 2951 0	2925 2947 0	Cross Stepping stones 23645	30 Agility					17	
